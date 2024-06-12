@@ -119,6 +119,8 @@ header {
         font-weight: bolder;
         color: white;
         text-shadow: 5px 5px 15px black;
+        position: relative;
+        top: 20px;
         padding-bottom: 10px;
     }
     footer {
@@ -161,7 +163,7 @@ header {
         font-size: 1.0em;
     }
     input.bt {
-        width: 80px;
+        width: 100px;
         height: 40px;
         box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.514);
         border-radius: 5px;
@@ -190,7 +192,9 @@ header {
         font-weight: bolder;
         color: rgb(194, 8, 8);
         text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.603);
-        padding-bottom: 10px;
+        padding-bottom: 30px;
+        position: relative;
+        top: 20px;
     }
     footer {
         margin-top: 15px;
